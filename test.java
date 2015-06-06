@@ -1,8 +1,8 @@
 public class test {
 
  	public static void main(String args[]){
-  	  System.out.println("GG");
-  	  System.out.println("Ahorita no joven");
-  	  System.out.println("WP");
+  	  System.out.println("**************************");
+  	  System.out.println("*Hola mundo, Hola jenkins*");
+  	  System.out.println("**************************");
 	 }
 }
