@@ -4,6 +4,6 @@ public class test {
   	  System.out.println("****************************");
   	  System.out.println("**Hola mundo, Hola jenkins**");
   	  System.out.println("****************************");
-  	  System.out.println("GGGGGGGGGGGGGGGGGGGGGGGGGGGG");
+	  System.out.println("----------------------------");
 	 }
 }
